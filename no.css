@@ -1,0 +1,20 @@
+body{
+
+}
+.display-4{
+	color: yellow;
+	text-shadow:10px 10px 10px red;	
+	font-size: 50px;
+	font-family: Times New Roman;
+}
+.dis{
+	color: yellow;
+	font-size: 200%;
+	font-family: Times New Roman;
+}
+.display-5{
+	color: green;
+	text-shadow:10px 10px 10px red;	
+	font-size: 50px;
+	font-family: Times New Roman;
+}
